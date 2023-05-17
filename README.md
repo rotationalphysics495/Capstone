@@ -1,7 +1,7 @@
 # Capstone
 The purpose of this repository is to showcase the code I used in for my capstone project. 
 
-The capstone final document is the full on paper that I wrote for my capstone project. 
+The capstone final document is the full paper that I wrote for my capstone project. 
 
 The wheat eda and modeling script are commented accordingly.
 
